@@ -1,6 +1,9 @@
 ceilfire
 ========
 
+HTML5 game development platform. Play games, create games and exchange game assets directly in your browser. 
+
+
 ![alt tag](https://raw.githubusercontent.com/n3on/ceilfire/master/screenshots/ceilfire_main1.png)
 ![alt tag](https://raw.githubusercontent.com/n3on/ceilfire/master/screenshots/ceilfire.png)
 ![alt tag](https://raw.githubusercontent.com/n3on/ceilfire/master/screenshots/ceilfire_browser.png)
